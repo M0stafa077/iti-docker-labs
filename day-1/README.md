@@ -53,3 +53,7 @@ I used the image id in order to use the locally existing `mysql` image instead o
 ### Problem 5:
 
 ![Problem 5 Screenshot](./images/problem-5.png)
+
+#### Pushing the image to docker hub:
+
+![Pushing image screenshot](./images/push-image.png)
